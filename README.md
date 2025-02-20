@@ -1,25 +1,31 @@
-# cahsicatzgame
- 
-# A user story is a short, simple description of a feature told form the perspectice of the person who desires the new capability usuall user or customer of the sysytem.
+# CAHSICATZ Game
 
-# Template:
-# As a <Type of userr>, I want <some goal> so that <some reason>
+## User Story
+A user story is a short, simple description of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system.
 
-# Priority
-# Story point estimation:
-# Story: 
-# Assumption: 
+### Template:
+**As a** `<Type of user>`, **I want** `<some goal>` **so that** `<some reason>`
 
-# Description
-# List of task:
-# Definition of Done
+## Priority & Estimation
+- **Story Point Estimation:**
+- **Story:**
+- **Assumption:**
 
-# Backlog
-# Story 1
-# Story 2
-# Story 3
+## Description
+### List of Tasks:
+-
 
-# In Progress (sprint)
+### Definition of Done:
+-
 
+## Backlog
+- **Story 1**
+- **Story 2**
+- **Story 3**
 
-# Done (Product owner approved)
+## In Progress (Sprint)
+-
+
+## Done (Product Owner Approved)
+- 
+
