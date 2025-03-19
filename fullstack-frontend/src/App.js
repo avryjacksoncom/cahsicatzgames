@@ -2,7 +2,7 @@
 import './App.css';
 import TicTacToe from './pages/TicTacToe';
 import NewGame1 from './pages/NewGame1';
-import NewGame2 from './pages/NewGame1';
+import NewGame2 from './pages/NewGame2';
 import{BrowserRouter as Router, Routes, Route} from "react-router-dom"
 
 function App() {
